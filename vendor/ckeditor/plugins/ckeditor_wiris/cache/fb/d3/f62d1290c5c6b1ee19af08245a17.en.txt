@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 5 over denominator 5 square root of 5 end fraction plus 5 over 5 space ?"},"status":"ok"}

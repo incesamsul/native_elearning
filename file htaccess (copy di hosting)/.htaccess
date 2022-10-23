@@ -1,0 +1,12 @@
+RewriteEngine On 
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# X-XSS-Protection
+
+Options All -Indexes
+
+# security file htaccess
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>

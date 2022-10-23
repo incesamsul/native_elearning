@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+body{
+font-family: Tahoma, Verdana, Segoe, sans-serif;
+font-size: 12px;
+}		
+
+	</style>
+</head>
+<body>
+    
+
+<table cellpadding="3" style="font-family: arial;">
+		<tr>
+			<td>NAMA SEKOLAH</td>
+			<td>:</td>
+			<td> SMK 1 BONE</td>
+		</tr>
+		<tr>
+			<td>MATA PELAJARAN</td>
+			<td>:</td>
+			<td>Matematika </td>
+		</tr>
+		<tr>
+			<td>KELAS / SEMESTER</td>
+			<td>:</td>
+			<td>X A / Ganjil</td>
+		</tr>
+		<tr>
+			<td>JURUSAN</td>
+			<td>:</td>
+			<td>IPA</td>
+		</tr>
+</table>
+<hr>
+<p>
+	<em><b>Plilihlah salah satu jawaban dibawah ini, menurut kamu paling benar !!</b> </em>
+</p>
+
+						
+			<p><b>1 .</b></p>
+			<ol type="A" style='font-size: 13px;'>		
+			<li style='font-size: 13px;'></li><li style='font-size: 13px;'></li><li style='font-size: 13px;'></li><li style='font-size: 13px;'></li><li style='font-size: 13px;'></li>			</ol>
+						
+			<p><b>2 .1+4</b></p>
+			<ol type="A" style='font-size: 13px;'>		
+			<li style='font-size: 13px;'>4</li><li style='font-size: 13px;'>5</li><li style='font-size: 13px;'>6</li><li style='font-size: 13px;'>7</li><li style='font-size: 13px;'>8</li>			</ol>
+						
+			<p><b>3 .1+3</b></p>
+			<ol type="A" style='font-size: 13px;'>		
+			<li style='font-size: 13px;'>3</li><li style='font-size: 13px;'>4</li><li style='font-size: 13px;'>5</li><li style='font-size: 13px;'>6</li><li style='font-size: 13px;'>7</li>			</ol>
+						
+			<p><b>4 .1+2</b></p>
+			<ol type="A" style='font-size: 13px;'>		
+			<li style='font-size: 13px;'>2</li><li style='font-size: 13px;'>3</li><li style='font-size: 13px;'>4</li><li style='font-size: 13px;'>5</li><li style='font-size: 13px;'>6</li>			</ol>
+						
+			<p><b>5 .1+1</b></p>
+			<ol type="A" style='font-size: 13px;'>		
+			<li style='font-size: 13px;'>1</li><li style='font-size: 13px;'>2</li><li style='font-size: 13px;'>3</li><li style='font-size: 13px;'>4</li><li style='font-size: 13px;'>5</li>			</ol>
+						
+			<p><b>6 .<p>Berapa Jumlah Sudut pada Bujur Sangkar</p>
+</b></p>
+			<ol type="A" style='font-size: 13px;'>		
+			<li style='font-size: 13px;'><p>1</p>
+</li><li style='font-size: 13px;'><p>2</p>
+</li><li style='font-size: 13px;'><p>3</p>
+</li><li style='font-size: 13px;'><p>4</p>
+</li><li style='font-size: 13px;'><p>5</p>
+</li>			</ol>
+						
+			<p><b>7 .<p>Berapakah nilai 2+2+6 . . .</p>
+</b></p>
+			<ol type="A" style='font-size: 13px;'>		
+			<li style='font-size: 13px;'><p>10</p>
+</li><li style='font-size: 13px;'><p>11</p>
+</li><li style='font-size: 13px;'><p>12</p>
+</li><li style='font-size: 13px;'><p>13</p>
+</li><li style='font-size: 13px;'><p>14</p>
+</li>			</ol>
+			
+
+
+
+		</body>
+		</html>

@@ -1,0 +1,5 @@
+.row1 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -1000px;
+  margin-left: -10px; }
