@@ -1,6 +1,8 @@
 <?php
 include '../config/db.php';
 //fungsi untuk mengkonversi size file
+
+
 function formatBytes($bytes, $precision = 2)
 {
 	$units = array('B', 'KB', 'MB', 'GB', 'TB');
@@ -543,5 +545,18 @@ elseif (isset($_POST['kelastugasSave'])) {
 			
 			";
 		}
+	}
+} elseif (isset($_POST['saveNilai'])) {
+
+	$s = mysqli_query($con, "INSERT INTO nilai_ujian(id_ujian,id_siswa,nilai) 
+
+		VALUES('$_POST[id_ujian]','$_POST[id_siswa]','$_POST[nilai]')") or die(mysqli_error($con));
+	if ($s) {
+		echo "
+			<script>
+			window.location='?page=nilai';
+			</script>
+			
+			";
 	}
 }
