@@ -1,5 +1,7 @@
 <?php
 
+
+var_dump($_POST);
 if (isset($_POST['porifilUpdate'])) {
 	$password = sha1($_POST['password']);
 

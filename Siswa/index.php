@@ -61,7 +61,7 @@ if (@$_SESSION['Siswa']) {
 
   </head>
 
-  <body>
+  <body onload="init(),noBack();" onpageshow="if (event.persisted) noBack();" onunload="keluar()">
 
 
     <div class="container-scroller">
